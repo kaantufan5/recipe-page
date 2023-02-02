@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+header {
+    padding-bottom: 3rem;
+}
+
+header nav {
+    border-bottom: 2px solid #C01F54;
+    border-radius: 15px;
+}
+
+header nav h1 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+#first-image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.bilgi-tablo {
+    border-bottom: 2px solid purple;
+    padding: 0.8rem;
+    padding-left: 1.5rem;
+    margin-left: 11.2%;
+    display: inline-block;
+}
+
+.section-first {
+    padding-bottom: 2rem;
+}
+
+.second-image {
+    padding-right: 1rem;
+    float: left;
+    margin-right: -0.5rem;
+}
+
+.tarif-baslik h2 {
+    padding-top: 0.35rem;
+}
+
+.section-second {
+    padding-left: 1.5rem;
+}
+
+.malzemeler h3 {
+    padding-left: 1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 0.9rem;
+}
+
+.malzemeler ul {
+    padding-left: 1rem;
+}
+
+.malzemeler ul li {
+    padding-bottom: 0.6rem;
+}
+
+.tarif-yapım-sec {
+    padding-top: 1.8rem;
+    padding-left: 1.5rem;
+}
+
+.tarif-yapım-baslik h2 {
+    margin-left: 3rem;
+}
+
+#tarif-yapım-img {
+    float: left;
+}
+
+.tarif-anlatim {
+    padding: 1.5rem;
+}
+
+.tarif-yapim {
+    padding-bottom: 1rem;
+}
+
+.footer {
+    text-align: center;
+    background-color: gray;
+    padding: 2rem;
+    border-radius: 2px;
+}
